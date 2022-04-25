@@ -6,7 +6,9 @@ The (un)official Redux (JS+TS) template for [Vite](https://vitejs.dev)
 
 To use a template within your project, use [degit](https://github.com/Rich-Harris/degit) to scaffold your project.
 
-For example:
+### JavaScript
+
+Use `nvh95/vite-react-template-redux/javascript` to create a project with JavaScript.
 
 ```sh
 npx degit nvh95/vite-react-template-redux/javascript my-app
@@ -16,7 +18,7 @@ npx degit nvh95/vite-react-template-redux/javascript my-app
 npx degit nvh95/vite-react-template-redux/javascript my-app --yarn
 ```
 
-## TypeScript
+### TypeScript
 
 Use `nvh95/vite-react-template-redux/typescript` to create a project with TypeScript.
 
