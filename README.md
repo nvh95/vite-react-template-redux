@@ -32,5 +32,5 @@ npx degit nvh95/vite-react-template-redux/typescript my-app --yarn
 
 For more information, please refer to:
 
-- [Getting Started](https://vitejs.dev/guide) – How to create a new app with Vite.
+- [Getting Started](https://vitejs.dev/guide/#scaffolding-your-first-vite-project) – How to create a new app with Vite.
 - [User Guide](https://vitejs.dev) – How to develop apps bootstrapped with Vite.
