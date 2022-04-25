@@ -1,6 +1,6 @@
-# vite-template-redux
+# vite-react-template-redux
 
-The (un)official Redux (JS+TS) template for [Vite](https://vitejs.dev)
+The (un)official Redux (JS+TS) template for [Vite](https://vitejs.dev) React.
 
 ## Usage
 
