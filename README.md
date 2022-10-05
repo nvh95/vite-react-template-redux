@@ -30,6 +30,16 @@ npx degit nvh95/vite-react-template-redux/typescript my-app
 npx degit nvh95/vite-react-template-redux/typescript my-app --yarn
 ```
 
+### NOTE 
+These commands works properly but create all the older versions for resolving this run these commands after installing.
+```sh
+npm install -g npm-check-updates
+ncu -u
+npm update
+npm install
+
+```
+
 For more information, please refer to:
 
 - [Getting Started](https://vitejs.dev/guide/#scaffolding-your-first-vite-project) – How to create a new app with Vite.
